@@ -1,3 +1,4 @@
+// 6. Imprimir números pares de 0 a 20 utilizando o loop while
 console.log("Exercicio 6")
 
 let contador = 0

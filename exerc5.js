@@ -1,3 +1,4 @@
+// 5. Imprimir os primeiros 10 números da sequência de Fibonacci.
 console.log("Exercicio 5")
 let anterior = 0
 let fibonacci = 1
